@@ -1,0 +1,22 @@
+.odd {
+
+    background: rgb(255, 204, 203);
+    font-family: 'verdana', 'Dejavu Sans', sans-serif;
+}
+
+#even {
+
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.odder {
+
+    font-size: 24px;
+}
+
+#evenTwo {
+  background: rgb(144, 238, 144);
+  font-size: 24px;
+  font-weight: bold;
+}
